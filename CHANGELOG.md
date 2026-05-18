@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.7.0...v1.8.0) (2026-05-18)
+
+
+### Features
+
+* uploaded a new stable version - v1.8.0 and updated the download link in the readme.md ([c520d69](https://github.com/markjasonespelita/zyphor_os/commit/c520d69af4a8c26189576c24e01b6ec58d1fcf2f))
+
 # [1.7.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.6.1...v1.7.0) (2026-05-05)
 
 
