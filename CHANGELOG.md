@@ -1,3 +1,13 @@
+# [1.9.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.8.0...v1.9.0) (2026-05-21)
+
+
+### Features
+
+* added flameshot (snipping tool), drawing (paint) and simplescreenrecorder (screen recorder) as default preinstalled applications. ([cce979a](https://github.com/markjasonespelita/zyphor_os/commit/cce979a7a406b0070615d82578e2056d235c86a1))
+* added new logo debian banner in os installer. ([fcfc1e9](https://github.com/markjasonespelita/zyphor_os/commit/fcfc1e9c69155a46d7f38d436b46ef7fbf62e9b5))
+* added the files generated after build on git ignore. ([505827b](https://github.com/markjasonespelita/zyphor_os/commit/505827b4e3e8c94d2a02d2897245b153d48b0574))
+* added whole bundle LibreOffice suite by default and vlc media player by default. ([1b69fa2](https://github.com/markjasonespelita/zyphor_os/commit/1b69fa29c05ca3f4e310c08c730fb205512be569))
+
 # [1.8.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.7.0...v1.8.0) (2026-05-18)
 
 
