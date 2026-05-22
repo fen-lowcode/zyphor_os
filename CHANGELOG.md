@@ -1,3 +1,19 @@
+# [1.10.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.9.0...v1.10.0) (2026-05-22)
+
+
+### Bug Fixes
+
+* fixed fastfetch config.jsonc - must align with the updated fastfetch config on zyphor updates. ([87430d1](https://github.com/markjasonespelita/zyphor_os/commit/87430d1fc7f9fa9e85f0052e2e9efb0067fd2dd2))
+* removed old kali-finish-install file. ([4df4988](https://github.com/markjasonespelita/zyphor_os/commit/4df498876dbe2f08e7832f4c8f8660cbb391d858))
+* reverted the kali-finish-install required file. ([c6bd088](https://github.com/markjasonespelita/zyphor_os/commit/c6bd088927b3c3f7766a99097b43c4ef3c45f8d3))
+
+
+### Features
+
+* added ufw - Uncomplicated Firewall, for managing firewalls - open ports, allowed and denied access to system. ([2d115b0](https://github.com/markjasonespelita/zyphor_os/commit/2d115b02ef3ac2c1f679fd59839dde4332d5448b))
+* renamed kali-finish-install to zyphor-os-finish-install. ([4f7c8f5](https://github.com/markjasonespelita/zyphor_os/commit/4f7c8f5f46b77efc1740fc88cf3187e3c5f045b0))
+* replacing includes.installer/preseed.cfg d-i netcfg/get_hostname string kali into zyphor ([f4b0734](https://github.com/markjasonespelita/zyphor_os/commit/f4b0734b471f5387d5b215c38042edb4099acb4c))
+
 # [1.9.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.8.0...v1.9.0) (2026-05-21)
 
 
