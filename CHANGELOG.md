@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/markjasonespelita/zyphor_os/compare/v1.11.0...v1.11.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* fixed README.md image not showing. ([6e5c842](https://github.com/markjasonespelita/zyphor_os/commit/6e5c842222f572bdb6db3f1b3f23249b9c4887f5))
+
 # [1.11.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.10.0...v1.11.0) (2026-06-02)
 
 
