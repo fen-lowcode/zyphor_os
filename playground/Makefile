@@ -9,7 +9,6 @@ compile:
 
 test:
 	$(CC) main.c \
-	helpers/helperCommand.c \
 	-o init
 
 json:
