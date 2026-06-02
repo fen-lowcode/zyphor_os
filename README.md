@@ -8,7 +8,7 @@ Download the latest **Zyphor OS ISO** and get started in minutes.
 > 📦 Hosted on Google Drive  
 > 💿 File Type: ISO Image  
 
-After installing, you can run this on the terminal for more information.
+After installing, open the terminal and run this command:
 ```bash
 zyphor help
 ```
