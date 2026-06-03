@@ -99,6 +99,22 @@ Security Tester
 </td>
 
 </tr>
+
+<td align="center">
+<a href="https://github.com/NicoleHonradoErvas">
+<img src="https://github.com/NicoleHonradoErvas.png?size=90" width="90">
+<br>
+<b>Dan Stephen Blanco</b>
+</a>
+<br>
+Security Tester
+</td>
+
+<tr>
+
+
+
+</tr>
 </table>
 
 ---
