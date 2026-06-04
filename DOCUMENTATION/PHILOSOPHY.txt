@@ -1,10 +1,13 @@
 Zyphor OS Philosophy and Vision
 Created By: Mark Jason P. Espelita
+
 Introduction
+
 Zyphor OS is a custom Linux-based operating system project focused on system control, workflow simplification, package abstraction, and technical identity. The project is built upon the Linux kernel, Debian userspace and Kali Linux build scripts while introducing its own philosophy and management concepts.
 The purpose of Zyphor OS is not simply to create an­other Linux distribution, but to explore how operating systems can become more controlled, simplified, and user-focused without sacrificing flexibility and technical depth.
 
 1. Minimal and Controlled Environment
+
 Most Linux distributions include preinstalled applications, services, configurations, and packages that users may never need.
 Zyphor OS focuses on:
     • reducing unnecessary software, 
@@ -14,6 +17,7 @@ The objective is not only to create a lightweight system, but to promote intenti
 This philosophy encourages efficiency, transparency, and reduced system overhead.
 
 2. CLI Abstraction Layer (Zyphor CLI)
+
 Linux systems are powerful, but many users struggle because they must memorize numerous commands, utilities, and workflows.
 To address this, Zyphor OS introduces:
     • a custom abstraction layer called Zyphor CLI, 
@@ -25,6 +29,7 @@ Abstraction over complexity
 The goal is to improve usability and operational speed while still preserving the power and flexibility of Linux underneath the system.
 
 3. Unified Package Management Logic
+
 Traditional Linux environments often require users to understand multiple package management systems such as:
     • APT, 
     • Snap, 
@@ -45,6 +50,7 @@ The philosophy behind this approach is:
 “Users should focus on software, not package mechanics.”
 
 4. Independent Package Ecosystem Vision
+
 One of the long-term goals of Zyphor OS is the development of packages maintained under the Zyphor OS project itself.
 This direction is important because it gradually transforms the project from:
     • a customized Linux distribution, 
@@ -53,6 +59,7 @@ toward:
 Although still experimental and evolving, this vision reflects the intention to build a more self-defined and consistent software environment over time.
 
 5. Branding and Identity
+
 Technical projects are not only defined by software functionality, but also by philosophy, identity, and community direction.
 Many projects fail because they lack:
     • clear identity, 
@@ -73,6 +80,7 @@ A core principle behind the project is:
 This mindset reflects the foundation of many successful open-source projects and technical innovations.
 
 6. Educational and Learning-Oriented Design
+
 Zyphor OS is also designed as a learning platform for students, developers, and individuals interested in understanding how operating systems work internally.
 One of the goals of the project is to provide:
     • a minimal and educational system structure, 
