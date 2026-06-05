@@ -63,27 +63,27 @@ One of **Zyphor OS**’s core goals is to provide a Windows-like user experience
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="showcase/grub.jpeg" width="45%" />
-  <img src="showcase/login-dark.jpeg" width="45%" />
+  <img src="showcase/image1.jpg" width="45%" />
+  <img src="showcase/image2.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="showcase/login-light.jpeg" width="45%" />
-  <img src="showcase/desktop.jpeg" width="45%" />
+  <img src="showcase/image3.jpg" width="45%" />
+  <img src="showcase/image4.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="showcase/menu.jpeg" width="45%" />
-  <img src="showcase/wallpaper-1.jpeg" width="45%" />
+  <img src="showcase/image5.jpg" width="45%" />
+  <img src="showcase/image6.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="showcase/wallpaper-2.jpeg" width="45%" />
-  <img src="showcase/wallpaper-3.jpeg" width="45%" />
+  <img src="showcase/image7.jpg" width="45%" />
+  <img src="showcase/image8.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="showcase/wallpaper-4.jpeg" width="45%" />
+  <img src="showcase/image9.jpg" width="45%" />
 </p>
 
 ---
