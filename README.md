@@ -19,7 +19,7 @@ zyphor help
 **Facebook Page:** https://www.facebook.com/profile.php?id=61573426796629  
 **Email:** markjasonespelita@gmail.com  
 **Contact:** 09978972884 | 09203454006  
-**Our Philosophy:** [ZyphorOSPhilosophy.docx](https://github.com/markjasonespelita/zyphor_os/blob/master/DOCUMENTATION/ZyphorOSPhilosophy.docx)
+**Our Philosophy:** [ZyphorOSPhilosophy.docx](https://github.com/markjasonespelita/zyphor_os/blob/master/DOCUMENTATION/ZyphorOSPhilosophy.docx)  
 **Date Created:** March 30, 2026
 
 ---
@@ -198,9 +198,11 @@ We gratefully acknowledge the work of the developers and communities behind thes
 
 ## 📜 License
 
-**Zyphor OS**-specific configurations, scripts, and customizations are licensed under the MIT License.
+**Zyphor OS**-specific configurations, scripts, and customizations are licensed under the GNU General Public License (GPL).
 
-You are free to use, modify, and distribute **Zyphor OS** components under the terms of this license.
+You are free to use, modify, and distribute these components under the terms of the GPL, provided that any distributed modified versions are also released under the same license.
+
+This ensures that improvements to Zyphor OS remain open source and benefit the community.
 
 ---
 
