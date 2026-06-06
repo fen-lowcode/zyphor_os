@@ -6,12 +6,12 @@ Contributors and their Contributions
 
 ---
 
-**Mark Jason Espelita**
-**Creator and Lead Maintainer**
-markjasonespelita@gmail.com
-https://www.facebook.com/mark.jason.penote.espelita
-09978972884
-09203454006
+**Mark Jason Espelita**  
+**Creator and Lead Maintainer**  
+markjasonespelita@gmail.com  
+https://www.facebook.com/mark.jason.penote.espelita  
+09978972884  
+09203454006  
 
 Contributions
 
