@@ -22,3 +22,12 @@ I agree that my contribution may be used, modified, and distributed as part of Z
 Signed-off-by: Name <myemail@example.com>
 
 ---
+
+## Contributor Onboarding
+
+1. Fork this repository.
+2. Edit the ONBOARDING file.
+3. Fill out your details.
+4. Submit a Pull Request.
+
+---
