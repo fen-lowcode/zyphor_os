@@ -26,3 +26,13 @@ Contributions
 - Quality assurance and testing
 
 ---
+
+**Jenalyn Iso**  
+**Graphic Designer**  
+
+Contributions
+
+- wallpapers/wallpapers-jenalyn-iso-2026/usr/share/backgrounds/wallpaper-jenalyn/wallpaper1.png
+- wallpapers/wallpapers-jenalyn-iso-2026/usr/share/backgrounds/wallpaper-jenalyn/wallpaper2.png
+
+---
